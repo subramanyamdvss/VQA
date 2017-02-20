@@ -1,4 +1,4 @@
-dataDir='/users/Datasets/VQA/data'
+dataDir='/media/surya/OS/DISC 1/VQA/data'
 taskType='OpenEnded'
 dataType='mscoco' # 'mscoco' for real and 'abstract_v002' for abstract
 dataSubType='train2014'
